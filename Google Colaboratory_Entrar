@@ -1,0 +1,48 @@
+O estudo de uma linguagem de programação, principalmente como o Python, requer bastante estudo e prática. Por isso, precisamos de uma ambiente que nos proporcione leitura de código e execução, assim conseguimos visualizar o resultado que obtivemos.
+
+Isso é possível pelo Google Colaboratory. O Google Colab é uma ótima ferramenta para aprender Python, porque:
+
+    Não exige instalação, pode ser executado totalmente online.
+
+    Fornece recursos de computação em nuvem, não exige nenhum processamento.
+
+    Ferramenta gratuita e fácil de usar.
+
+Você pode acessar o Google Colab por aqui, mas ele também ficará disponível na descrição do vídeo. Lembrando que é necessário ter uma conta do Gmail para acessá-lo. Ao fazer isso, seremos automaticamente retornados para uma tela com as abas: "Exemplos"; "Recente"; "Google Drive"; "GitHub"; e "Upload". São opções de criação de Notebook.
+
+Na aba "Exemplos", como o próprio nome sugere, temos vários exemplos. Na aba "Recente", visualizamos os documentos usados recentemente. Se você já tiver utilizado o Google Colab, aparecerão alguns, caso contrário, não aparecerá nada. No "Google Drive" estão os notebooks.
+
+Sobre a aba "GitHub", uma vez conectados ao GitHub, podemos acessar os documentos armazenados nele. No "Upload", podemos fazer o upload de um notebook.
+O que é um Notebook?
+
+O notebook é um ambiente interativo que combina várias informações, como código, texto, equações matemáticas e visualizações de dados. Tudo reunido em um único documento. Por isso, é utilizado para documentar o código e em Ciências de Dados.
+
+Como o nosso objetivo é aprender a linguagem Python para Data Science, fornecerei um notebook pronto e totalmente informativo, que você pode baixar nas atividades do curso.
+
+Estamos com a aba "Upload" aberta no nosso Google Colab, porque a utilizaremos para fazer o upload do nosso arquivo. Temos duas opções: encontrar o arquivo baixado e arrastá-lo até a área de "Upload" ou apertar o botão "Escolher arquivo", encontrar e selecionar o arquivo.
+
+Então, selecionaremos o arquivo "Projeto_Python_Data_Science.ipynb" e apertaremos "Abrir". Basta esperar o upload. Os notebooks do Google Colab são chamados de "notebooks do Colaboratory" e separados por células.
+
+Sempre que criamos um notebook, ele terá a terminação .ipynb. Sendo assim, todos os arquivos terminados com essa extensão são notebooks. Podemos abri-los em outras ferramentas, não só no Google Colab.
+
+Finalizado o upload do nosso notebook, conseguiremos entender melhor o ambiente do Google Colab. Na lateral esquerda, há uma aba de "Índice". Ao acessá-lo, encontramos várias opções que usaremos no notebook. Por enquanto, podemos fechá-la, porque o nosso foco agora será o notebook e o que podemos construir nele.
+
+Geralmente, notebooks são organizados em células de texto e de código. Todas elas são móveis. Para mover uma célula, basta selecioná-la e apertar o ícone de seta para cima ou para baixo, conforme a direção que desejamos.
+
+Outra funcionalidade interessante é a execução em tempo real de código. Vamos executar um código simples: escreveremos o número 10 na célula.
+
+10
+
+Para executarmos esse código, podemos apertar o botão de seta, ao lado esquerdo da célula, ou o comando "Shift + Enter". Fazendo isso, o ambiente será ligado e o Colab se conectará a uma nuvem. Após a conexão, a célula será rodada.
+
+Lembrando que, uma vez conectado, precisamos manter o Colab ativo, porque se perdermos a conexão com a internet, também perderemos a memória de execução das células.
+
+É possível verificar que já estamos conectados, porque há uma marcação de seta/check em verde no canto direito da tela e, ao lado dela, a informação de memória e consumo: "RAM" e "Disco".
+
+A saída da execução será a mesma informação da célula.
+
+10
+
+    10
+
+Agora que conhecemos o Google Colab, vamos construir nosso primeiro código?!
